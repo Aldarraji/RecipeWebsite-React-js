@@ -1,5 +1,5 @@
 # RecipeWebsite-React-js
-Search a recipe for any type of ingredient
+Search a recipe for any type of ingredient  
 Note: Need to have a react project created first then just replace the folders: public and src with the ones in the repositorie.
 
 ## Screenshot of the Website
