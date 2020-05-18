@@ -1,0 +1,58 @@
+.App {
+  text-align: center;
+  min-height: 100vh;
+  background-image: linear-gradient(to top, #a8edea 0%, #fed6e3 100%);
+}
+
+.heading{
+  text-align: center;
+  width: 99vw;
+  margin: 0;
+  padding: 0;
+  display: grid;
+}
+
+.heading h1{
+  font-size: 5rem;
+  font-weight: lighter;
+  color: #e6891d;
+  letter-spacing: 3px;
+  word-spacing: 6px;
+}
+
+.site-header--logo {
+	font-weight: 400;
+	margin: 0;
+}
+
+.search-form{
+  min-height: 10vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.search-bar{
+  width: 30%;
+  border: black;
+  padding: 10px;
+}
+
+.search-button{
+  background: rgb(223, 153, 2);
+  border: none;
+  padding: 10px 20px;
+  color: white;
+}
+
+.resipes{
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.image{
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+}
